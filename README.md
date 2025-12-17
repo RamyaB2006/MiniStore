@@ -1,6 +1,6 @@
 This README describes your mini e‑commerce website project in a detailed, well‑structured way.
 
-# Mini E‑Commerce Store – HTML, CSS & JS  
+# MiniStore- Mini E‑Commerce Store   
 ***
 
 ## 📌 Project Overview  
